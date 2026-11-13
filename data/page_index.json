@@ -1,0 +1,545 @@
+{
+  "content_pages": 77,
+  "total_chars": 109708,
+  "pages": [
+    {
+      "document_id": "openstax-intro-python",
+      "page": 17,
+      "chars": 1198,
+      "chapter": 1,
+      "section": null
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 18,
+      "chars": 1843,
+      "chapter": 1,
+      "section": "1.1 Background"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 19,
+      "chars": 2110,
+      "chapter": 1,
+      "section": "1.1 Background"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 20,
+      "chars": 1606,
+      "chapter": 1,
+      "section": "1.2 Input/output"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 21,
+      "chars": 1443,
+      "chapter": 1,
+      "section": "1.2 Input/output"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 22,
+      "chars": 1506,
+      "chapter": 1,
+      "section": "1.2 Input/output"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 23,
+      "chars": 1400,
+      "chapter": 1,
+      "section": "1.2 Input/output"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 24,
+      "chars": 1319,
+      "chapter": 1,
+      "section": "1.3 Variables"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 25,
+      "chars": 1334,
+      "chapter": 1,
+      "section": "1.3 Variables"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 26,
+      "chars": 1429,
+      "chapter": 1,
+      "section": "1.4 String basics"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 27,
+      "chars": 1172,
+      "chapter": 1,
+      "section": "1.4 String basics"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 28,
+      "chars": 1108,
+      "chapter": 1,
+      "section": "1.4 String basics"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 29,
+      "chars": 1304,
+      "chapter": 1,
+      "section": "1.5 Number basics"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 30,
+      "chars": 1202,
+      "chapter": 1,
+      "section": "1.5 Number basics"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 31,
+      "chars": 755,
+      "chapter": 1,
+      "section": "1.5 Number basics"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 32,
+      "chars": 895,
+      "chapter": 1,
+      "section": "1.5 Number basics"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 33,
+      "chars": 1766,
+      "chapter": 1,
+      "section": "1.6 Error messages"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 34,
+      "chars": 1528,
+      "chapter": 1,
+      "section": "1.6 Error messages"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 35,
+      "chars": 1501,
+      "chapter": 1,
+      "section": "1.6 Error messages"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 36,
+      "chars": 1171,
+      "chapter": 1,
+      "section": "1.6 Error messages"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 37,
+      "chars": 1515,
+      "chapter": 1,
+      "section": "1.7 Comments"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 38,
+      "chars": 1352,
+      "chapter": 1,
+      "section": "1.7 Comments"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 39,
+      "chars": 1833,
+      "chapter": 1,
+      "section": "1.7 Comments"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 40,
+      "chars": 2455,
+      "chapter": 1,
+      "section": "1.8 Why Python?"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 41,
+      "chars": 2343,
+      "chapter": 1,
+      "section": "1.8 Why Python?"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 42,
+      "chars": 621,
+      "chapter": 1,
+      "section": "1.8 Why Python?"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 43,
+      "chars": 1287,
+      "chapter": 1,
+      "section": "1.9 Chapter summary"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 44,
+      "chars": 1132,
+      "chapter": 1,
+      "section": "1.9 Chapter summary"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 45,
+      "chars": 1930,
+      "chapter": 1,
+      "section": "1.9 Chapter summary"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 47,
+      "chars": 1497,
+      "chapter": 2,
+      "section": null
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 48,
+      "chars": 2074,
+      "chapter": 2,
+      "section": "2.1 The Python shell"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 49,
+      "chars": 1380,
+      "chapter": 2,
+      "section": "2.1 The Python shell"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 50,
+      "chars": 1763,
+      "chapter": 2,
+      "section": "2.2 Type conversion"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 51,
+      "chars": 1242,
+      "chapter": 2,
+      "section": "2.2 Type conversion"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 52,
+      "chars": 1366,
+      "chapter": 2,
+      "section": "2.2 Type conversion"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 53,
+      "chars": 1564,
+      "chapter": 2,
+      "section": "2.3 Mixed data types"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 54,
+      "chars": 1093,
+      "chapter": 2,
+      "section": "2.3 Mixed data types"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 55,
+      "chars": 797,
+      "chapter": 2,
+      "section": "2.3 Mixed data types"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 56,
+      "chars": 2027,
+      "chapter": 2,
+      "section": "2.4 Floating-point errors"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 57,
+      "chars": 1510,
+      "chapter": 2,
+      "section": "2.4 Floating-point errors"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 58,
+      "chars": 1250,
+      "chapter": 2,
+      "section": "2.4 Floating-point errors"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 59,
+      "chars": 1058,
+      "chapter": 2,
+      "section": "2.5 Dividing integers"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 60,
+      "chars": 1661,
+      "chapter": 2,
+      "section": "2.5 Dividing integers"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 61,
+      "chars": 1878,
+      "chapter": 2,
+      "section": "2.5 Dividing integers"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 62,
+      "chars": 1779,
+      "chapter": 2,
+      "section": "2.6 The math module"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 63,
+      "chars": 1087,
+      "chapter": 2,
+      "section": "2.6 The math module"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 64,
+      "chars": 1091,
+      "chapter": 2,
+      "section": "2.6 The math module"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 65,
+      "chars": 1032,
+      "chapter": 2,
+      "section": "2.6 The math module"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 66,
+      "chars": 701,
+      "chapter": 2,
+      "section": "2.6 The math module"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 67,
+      "chars": 1784,
+      "chapter": 2,
+      "section": "2.7 Formatting code"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 68,
+      "chars": 1172,
+      "chapter": 2,
+      "section": "2.7 Formatting code"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 69,
+      "chars": 2018,
+      "chapter": 2,
+      "section": "2.7 Formatting code"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 70,
+      "chars": 1544,
+      "chapter": 2,
+      "section": "2.7 Formatting code"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 71,
+      "chars": 2196,
+      "chapter": 2,
+      "section": "2.7 Formatting code"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 72,
+      "chars": 2110,
+      "chapter": 2,
+      "section": "2.8 Python careers"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 73,
+      "chars": 1588,
+      "chapter": 2,
+      "section": "2.9 Chapter summary"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 74,
+      "chars": 1376,
+      "chapter": 2,
+      "section": "2.9 Chapter summary"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 75,
+      "chars": 1742,
+      "chapter": 2,
+      "section": "2.9 Chapter summary"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 76,
+      "chars": 409,
+      "chapter": 2,
+      "section": "2.9 Chapter summary"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 77,
+      "chars": 1304,
+      "chapter": 3,
+      "section": "3.1 Strings revisited"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 78,
+      "chars": 1061,
+      "chapter": 3,
+      "section": "3.1 Strings revisited"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 79,
+      "chars": 866,
+      "chapter": 3,
+      "section": "3.1 Strings revisited"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 80,
+      "chars": 956,
+      "chapter": 3,
+      "section": "3.1 Strings revisited"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 81,
+      "chars": 1743,
+      "chapter": 3,
+      "section": "3.1 Strings revisited"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 82,
+      "chars": 1470,
+      "chapter": 3,
+      "section": "3.2 Formatted strings"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 83,
+      "chars": 1727,
+      "chapter": 3,
+      "section": "3.2 Formatted strings"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 84,
+      "chars": 1270,
+      "chapter": 3,
+      "section": "3.2 Formatted strings"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 85,
+      "chars": 1535,
+      "chapter": 3,
+      "section": "3.3 Variables revisited"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 86,
+      "chars": 1825,
+      "chapter": 3,
+      "section": "3.3 Variables revisited"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 87,
+      "chars": 1051,
+      "chapter": 3,
+      "section": "3.3 Variables revisited"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 88,
+      "chars": 1505,
+      "chapter": 3,
+      "section": "3.4 List basics"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 89,
+      "chars": 1764,
+      "chapter": 3,
+      "section": "3.4 List basics"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 90,
+      "chars": 1019,
+      "chapter": 3,
+      "section": "3.4 List basics"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 91,
+      "chars": 1381,
+      "chapter": 3,
+      "section": "3.5 Tuple basics"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 92,
+      "chars": 1539,
+      "chapter": 3,
+      "section": "3.5 Tuple basics"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 93,
+      "chars": 1243,
+      "chapter": 3,
+      "section": "3.6 Chapter summary"
+    },
+    {
+      "document_id": "openstax-intro-python",
+      "page": 94,
+      "chars": 602,
+      "chapter": 3,
+      "section": "3.6 Chapter summary"
+    }
+  ]
+}
