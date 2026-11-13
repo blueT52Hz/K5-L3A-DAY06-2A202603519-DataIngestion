@@ -149,3 +149,7 @@ Làm theo mục "Mở rộng tùy chọn" của GUIDE, **sau khi** đã chạy t
 ## Công cụ AI đã dùng
 
 - Claude Code (Claude, model claude-opus-5-5) dùng để: viết code pipeline trong `starter/src/`.
+- Cách kiểm tra:
+  - Evidence của từng câu benchmark được kiểm bằng script `starter/scripts/verify_benchmark.py` (quote nằm trên mọi trang gold, giá trị filter tồn tại và trang gold thỏa filter). Kết quả: `OK: all evidence verified`.
+  - Mọi số liệu trong báo cáo lấy từ file trong `results/` do pipeline sinh ra (trace, `summary_*.json`, `manual_summary.json`), không nhập tay.
+  - Nạp lại dữ liệu và kiểm tra không nhân đôi chunk qua `results/reingest_log.jsonl`.
