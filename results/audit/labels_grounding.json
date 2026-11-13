@@ -1,0 +1,24 @@
+{
+  "labeller": "Manual labels by the student (author) reading results/audit/grounding_sheet.csv.",
+  "scale": "Evidence sufficiency of the top-3 (not LLM answer accuracy): 0 = no evidence; 1 = evidence present but missing a needed condition/context; 2 = enough to answer and trace to source page",
+  "labels": [
+    {"strategy": "A", "qid": "q17", "score": 2, "reason": "Rank 1 (p78) states ord() converts a character to a code point, with ord(\"P\") = 80."},
+    {"strategy": "B", "qid": "q17", "score": 2, "reason": "Rank 1 (p78) holds the full ord()/chr() explanation."},
+    {"strategy": "C", "qid": "q17", "score": 2, "reason": "Same top-3 as B."},
+    {"strategy": "A", "qid": "q18", "score": 2, "reason": "Rank 3 (p83) contains the 010d row with example '0012345678'; ranks 1-2 are other parts of the same table."},
+    {"strategy": "B", "qid": "q18", "score": 2, "reason": "Rank 2 (p83) contains the whole format-specifier table incl. 010d."},
+    {"strategy": "C", "qid": "q18", "score": 2, "reason": "Same top-3 as B."},
+    {"strategy": "A", "qid": "q19", "score": 2, "reason": "Rank 1 (p92) defines immutable/mutable and states tuples are immutable, lists mutable."},
+    {"strategy": "B", "qid": "q19", "score": 2, "reason": "Rank 1 (p92) same sentences, plus tuple() conversion at rank 2."},
+    {"strategy": "C", "qid": "q19", "score": 2, "reason": "Same top-3 as B."},
+    {"strategy": "A", "qid": "q20", "score": 2, "reason": "Rank 3 (p86) has the full identity definition and 'never changes'; rank 1 (p87) adds that the variable, not the object, changes."},
+    {"strategy": "B", "qid": "q20", "score": 2, "reason": "Rank 1 (p86) has the whole identity/type/value list."},
+    {"strategy": "C", "qid": "q20", "score": 2, "reason": "Same top-3 as B."},
+    {"strategy": "A", "qid": "q21", "score": 2, "reason": "Rank 3 (p43) chapter 1 reference row 'type(value) Returns the type (or class) of a value'. Ranks 1-2 are off-scope (ch3 quiz, ch2 table) but do not contradict."},
+    {"strategy": "B", "qid": "q21", "score": 2, "reason": "Rank 3 (p43) has the reference row; ranks 1-2 are chapter 3 (outside the requested chapter)."},
+    {"strategy": "C", "qid": "q21", "score": 2, "reason": "Rank 1 (p43) has the reference row; all three chunks are in chapter 1 as requested."},
+    {"strategy": "A", "qid": "q22", "score": 2, "reason": "Rank 3 (p53) states combining an integer and a float produces a float, with the 15.0 example."},
+    {"strategy": "B", "qid": "q22", "score": 2, "reason": "Rank 1 (p53) has the rule, example and the note on / division."},
+    {"strategy": "C", "qid": "q22", "score": 2, "reason": "Same top-3 as B."}
+  ]
+}

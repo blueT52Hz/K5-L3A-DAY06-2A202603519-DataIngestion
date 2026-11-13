@@ -1,0 +1,57 @@
+{
+  "run_at": "2026-11-13T10:06:46+00:00",
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "dimensions": 384,
+  "device": "cpu",
+  "python": "3.12.5",
+  "content_pages": 77,
+  "read_seconds": 1.92,
+  "strategies": {
+    "A": {
+      "params": {
+        "chunking": "fixed",
+        "size": 500,
+        "overlap": 50,
+        "use_filter": false
+      },
+      "chunk_count": 272,
+      "db_count_before": 272,
+      "db_count_after": 272,
+      "upserted": 272,
+      "deleted_obsolete": 0,
+      "len_min": 56,
+      "len_median": 500.0,
+      "len_mean": 439.0,
+      "len_max": 500,
+      "total_chars": 119400,
+      "approx_tokens": 29850,
+      "chunk_seconds": 0.01,
+      "embed_seconds": 8.5,
+      "store_seconds": 0.1,
+      "cost_usd": 0.0
+    },
+    "B": {
+      "params": {
+        "chunking": "paragraph",
+        "max_size": 1000,
+        "min_size": 200,
+        "use_filter": false
+      },
+      "chunk_count": 272,
+      "db_count_before": 272,
+      "db_count_after": 272,
+      "upserted": 272,
+      "deleted_obsolete": 0,
+      "len_min": 6,
+      "len_median": 385.0,
+      "len_mean": 402.6,
+      "len_max": 993,
+      "total_chars": 109513,
+      "approx_tokens": 27378,
+      "chunk_seconds": 0.01,
+      "embed_seconds": 8.67,
+      "store_seconds": 0.12,
+      "cost_usd": 0.0
+    }
+  }
+}

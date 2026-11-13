@@ -1,0 +1,59 @@
+{
+  "labeller": "Manual labels by the student (author) reading results/audit/coherence_sheet.csv. Same labeller wrote the pipeline, so bias toward B is possible.",
+  "strategies": {
+    "A": {
+      "coherence_mean_of_2": 0.8,
+      "coherence_n": 10,
+      "coherence_counts": {
+        "0": 2,
+        "1": 8,
+        "2": 0
+      },
+      "metadata_complete_correct": "18/18",
+      "filter_compliance": "1/2",
+      "grounding_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 6
+      },
+      "grounding_mean_of_2": 2.0,
+      "grounding_n": 6
+    },
+    "B": {
+      "coherence_mean_of_2": 1.9,
+      "coherence_n": 10,
+      "coherence_counts": {
+        "0": 0,
+        "1": 1,
+        "2": 9
+      },
+      "metadata_complete_correct": "18/18",
+      "filter_compliance": "1/2",
+      "grounding_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 6
+      },
+      "grounding_mean_of_2": 2.0,
+      "grounding_n": 6
+    },
+    "C": {
+      "coherence_mean_of_2": 1.9,
+      "coherence_n": 10,
+      "coherence_counts": {
+        "0": 0,
+        "1": 1,
+        "2": 9
+      },
+      "metadata_complete_correct": "18/18",
+      "filter_compliance": "2/2",
+      "grounding_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 6
+      },
+      "grounding_mean_of_2": 2.0,
+      "grounding_n": 6
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "run_at": "2026-11-13T10:51:33+00:00",
+  "split": "dev",
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "strategies": [
+    "D"
+  ],
+  "metrics": {
+    "D/all": {
+      "N": 16,
+      "Hit@1": "12/16",
+      "Hit@1_rate": 0.75,
+      "EvidenceHit@3": "15/16",
+      "EvidenceHit@3_rate": 0.938,
+      "GoldPage@3": "15/16",
+      "evidence_split_or_partial": 0
+    },
+    "D/dev": {
+      "N": 16,
+      "Hit@1": "12/16",
+      "Hit@1_rate": 0.75,
+      "EvidenceHit@3": "15/16",
+      "EvidenceHit@3_rate": 0.938,
+      "GoldPage@3": "15/16",
+      "evidence_split_or_partial": 0
+    }
+  }
+}
