@@ -1,0 +1,16 @@
+{
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "metric": "cosine (pgvector <=>), exact search, top_k=3",
+  "ingest_strategies": ["A", "B"],
+  "eval_strategies": ["A", "B", "C"],
+  "strategies": {
+    "A": {"chunking": "fixed", "size": 500, "overlap": 50, "use_filter": false},
+    "B": {"chunking": "paragraph", "max_size": 1000, "min_size": 200, "use_filter": false},
+    "C": {"chunking": "paragraph", "max_size": 1000, "min_size": 200, "use_filter": true,
+          "reuse_chunks_of": "B"},
+    "D": {"chunking": "paragraph", "max_size": 1000, "min_size": 200, "use_filter": true,
+          "reuse_chunks_of": "B",
+          "hybrid": {"k": 60, "w_dense": 1.0, "w_keyword": 0.5, "depth": 20},
+          "note": "Optional extension: C + keyword full-text (PostgreSQL ts_rank_cd, english) fused with dense by weighted RRF. hybrid params = dev-selected values from results/hybrid_tuning_dev.json (k=60, w_keyword=0.5)."}
+  }
+}
