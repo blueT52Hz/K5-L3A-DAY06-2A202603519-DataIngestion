@@ -1,0 +1,5 @@
+{"run_at": "2026-11-13T10:05:57+00:00", "A": {"before": 0, "after": 272, "chunk_count": 272, "deleted_obsolete": 0}, "B": {"before": 0, "after": 272, "chunk_count": 272, "deleted_obsolete": 0}}
+{"run_at": "2026-11-13T10:06:46+00:00", "A": {"before": 272, "after": 272, "chunk_count": 272, "deleted_obsolete": 0}, "B": {"before": 272, "after": 272, "chunk_count": 272, "deleted_obsolete": 0}}
+{"run_at": "2026-11-13T10:08:50+00:00", "A": {"before": 272, "after": 272, "chunk_count": 272, "deleted_obsolete": 0}, "B": {"before": 272, "after": 226, "chunk_count": 226, "deleted_obsolete": 115}}
+{"run_at": "2026-11-13T10:09:38+00:00", "A": {"before": 272, "after": 272, "chunk_count": 272, "deleted_obsolete": 0}, "B": {"before": 226, "after": 226, "chunk_count": 226, "deleted_obsolete": 0}}
+{"run_at": "2026-11-13T10:11:12+00:00", "A": {"before": 272, "after": 272, "chunk_count": 272, "deleted_obsolete": 0}, "B": {"before": 226, "after": 226, "chunk_count": 226, "deleted_obsolete": 0}}

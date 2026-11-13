@@ -1,0 +1,28 @@
+{
+  "run_at": "2026-11-13T10:51:56+00:00",
+  "split": "test",
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "strategies": [
+    "D"
+  ],
+  "metrics": {
+    "D/all": {
+      "N": 6,
+      "Hit@1": "4/6",
+      "Hit@1_rate": 0.667,
+      "EvidenceHit@3": "6/6",
+      "EvidenceHit@3_rate": 1.0,
+      "GoldPage@3": "6/6",
+      "evidence_split_or_partial": 0
+    },
+    "D/test": {
+      "N": 6,
+      "Hit@1": "4/6",
+      "Hit@1_rate": 0.667,
+      "EvidenceHit@3": "6/6",
+      "EvidenceHit@3_rate": 1.0,
+      "GoldPage@3": "6/6",
+      "evidence_split_or_partial": 0
+    }
+  }
+}

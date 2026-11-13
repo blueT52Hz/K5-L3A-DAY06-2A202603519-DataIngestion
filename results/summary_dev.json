@@ -1,0 +1,61 @@
+{
+  "run_at": "2026-11-13T10:12:06+00:00",
+  "split": "dev",
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "metrics": {
+    "A/all": {
+      "N": 16,
+      "Hit@1": "9/16",
+      "Hit@1_rate": 0.562,
+      "EvidenceHit@3": "14/16",
+      "EvidenceHit@3_rate": 0.875,
+      "GoldPage@3": "15/16",
+      "evidence_split_or_partial": 1
+    },
+    "A/dev": {
+      "N": 16,
+      "Hit@1": "9/16",
+      "Hit@1_rate": 0.562,
+      "EvidenceHit@3": "14/16",
+      "EvidenceHit@3_rate": 0.875,
+      "GoldPage@3": "15/16",
+      "evidence_split_or_partial": 1
+    },
+    "B/all": {
+      "N": 16,
+      "Hit@1": "13/16",
+      "Hit@1_rate": 0.812,
+      "EvidenceHit@3": "14/16",
+      "EvidenceHit@3_rate": 0.875,
+      "GoldPage@3": "15/16",
+      "evidence_split_or_partial": 1
+    },
+    "B/dev": {
+      "N": 16,
+      "Hit@1": "13/16",
+      "Hit@1_rate": 0.812,
+      "EvidenceHit@3": "14/16",
+      "EvidenceHit@3_rate": 0.875,
+      "GoldPage@3": "15/16",
+      "evidence_split_or_partial": 1
+    },
+    "C/all": {
+      "N": 16,
+      "Hit@1": "13/16",
+      "Hit@1_rate": 0.812,
+      "EvidenceHit@3": "14/16",
+      "EvidenceHit@3_rate": 0.875,
+      "GoldPage@3": "15/16",
+      "evidence_split_or_partial": 1
+    },
+    "C/dev": {
+      "N": 16,
+      "Hit@1": "13/16",
+      "Hit@1_rate": 0.812,
+      "EvidenceHit@3": "14/16",
+      "EvidenceHit@3_rate": 0.875,
+      "GoldPage@3": "15/16",
+      "evidence_split_or_partial": 1
+    }
+  }
+}
